@@ -11,5 +11,5 @@ https://www.kaggle.com/blastchar/telco-customer-churn
 Dataset link for Adult
 https://archive.ics.uci.edu/ml/datasets/adult
 
-Dataset link for Creditcard (this data is too big so not upload download it yourself)
+Dataset link for Creditcard (this data is too big so not uploaded download it yourself)
 https://www.kaggle.com/mlg-ulb/creditcardfraud
